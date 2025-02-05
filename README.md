@@ -85,7 +85,7 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
   <!-- 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mahfuzahmmedabir&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Streak" />
   -->
-  <img src="https://nirzak-streak-stats.vercel.app?user=Mahfuzahmmedabir" alt="GitHub Streak">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mahfuzahmmedabir&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Streak">
 </a>
 </div>
 
