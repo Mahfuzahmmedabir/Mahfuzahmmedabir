@@ -2,15 +2,7 @@
 
 
 
-Buy Me A Coffee
-🚧 my todoist stats:
 
-🏆 8,004 Karma Points
-🌸 Completed 0 tasks today
-✅ Completed 673 tasks so far
-⏳ Longest streak is 10 days
-
-📈 my github stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahfuzahmmedabir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
