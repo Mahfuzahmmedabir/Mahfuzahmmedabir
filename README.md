@@ -1,7 +1,9 @@
 ## Hey 👋, I'm Mahfuz!
 <div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
+  <img height="400" src="https://i.ibb.co.com/bgrmrwyb/github-header-image.png"  />
 </div>
+
+###
 
 
 
