@@ -16,10 +16,11 @@
 
 <!--
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. -->
-
+## About me
 I'm  passionate Front-End Developer with a love for creating beautiful, responsive, and user-friendly web experiences. I specialize in turning ideas into reality using modern web technologies and frameworks. My goal is to build intuitive and visually appealing interfaces that not only look great but also provide seamless functionality.
 
-<br/>
+<br /><br />
+
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
