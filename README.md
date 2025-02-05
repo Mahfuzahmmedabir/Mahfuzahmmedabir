@@ -16,7 +16,7 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="" width="360px"/>
+<img align="right" alt="GIF" src="https://storyset.com/people">" width="360px"/>
   
 ### 🧐 More About Me:
 
