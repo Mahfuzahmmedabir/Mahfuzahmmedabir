@@ -1,9 +1,14 @@
 ## Hi there 👋
 
 
-TypeScript   46 hrs 15 mins  ████████████████████████▓   98.35 %
-Python       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Bash         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-SCSS         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+
+Buy Me A Coffee
+🚧 my todoist stats:
+
+🏆 8,004 Karma Points
+🌸 Completed 0 tasks today
+✅ Completed 673 tasks so far
+⏳ Longest streak is 10 days
+
+📈 my github stats
 
