@@ -26,7 +26,7 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mahfuzahmmedabir)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/mahfuz-ahmed-40155427b)
-- 📚 &nbsp; When I am free, I read fantasy and nonfiction book. Checkout my [Book](https://svpma.org/wp-content/uploads/2016/03/Dan-Olsen-The-Lean-Product-Playbook-pdf.pdf) to see the book I have read
+- 📚 &nbsp; When I am free, I read marketing and technical book. Checkout my [Book](https://svpma.org/wp-content/uploads/2016/03/Dan-Olsen-The-Lean-Product-Playbook-pdf.pdf) to see the book I have read
 
 <br>
 
@@ -60,7 +60,7 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 ###
 
 <br>
-
+<!--
 ## My Github stats
 <div align="center">
 <a href="https://git.io/streak-stats">
@@ -73,6 +73,19 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
   <img src="https://github-readme-stats.vercel.app/api?username=Mahfuzahmmedabir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahfuzahmmedabir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+-->
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+
+
+
 
 ###
 
