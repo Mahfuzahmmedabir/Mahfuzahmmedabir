@@ -27,7 +27,7 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/mahfuz-ahmed-40155427b)
 - 📚 &nbsp; When I am free, I read marketing and technical book. Checkout my [Book](https://svpma.org/wp-content/uploads/2016/03/Dan-Olsen-The-Lean-Product-Playbook-pdf.pdf) to see the book I have read
-
+- 📫 Reach me at **mahfuz.abir06@gmail.com*  
 <br>
 
 ### 🛠️ Languages and Tools:
