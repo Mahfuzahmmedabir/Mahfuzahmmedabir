@@ -1,4 +1,10 @@
 ## Hey 👋, I'm Mahfuz!
+<div align="center">
+  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
+</div>
+
+
+
 
 
 <a href='www.linkedin.com/in/mahfuz-ahmed-40155427b'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
