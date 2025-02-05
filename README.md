@@ -62,26 +62,20 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 <br>
 
 
-
-
 <div align="center"  >
 
-
   <h2 > My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=Mahfuzahmmedabir&show_icons=true&theme=gotham" alt="fahima-anny" width="450" />
   
-  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahfuzahmmedabir&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=gotham&hide_border=false" height="190" alt="languages graph"  />
+
 <a href="https://github.com/Mahfuzahmmedabir">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mahfuzahmmedabir&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Streak">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mahfuzahmmedabir&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Streak" />
 </a>
 </div>
 
- <img src="https://github-readme-stats.vercel.app/api?username=Mahfuzahmmedabir&show_icons=true&theme=gotham" alt="fahima-anny" width="450" />
- 
- <a href="https://github.com/Mahfuzahmmedabir">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mahfuzahmmedabir&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Streak" />
- </a>
 
-</div>
 
 
 ###
