@@ -64,7 +64,7 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 ## My Github stats
 <div align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=YOUR_USERNAME" alt="GitHub Streak">
+  <img src="https://nirzak-streak-stats.vercel.app?user=Mahfuzahmmedabir" alt="GitHub Streak">
 </a>
 </div>
 
