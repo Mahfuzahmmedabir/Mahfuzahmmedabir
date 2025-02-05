@@ -74,7 +74,7 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 <div align="center">
 <div align="center">
     <a href="https://github.com/Mahfuzahmmedabir" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=emran-binhasan&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="Emran's GitHub Stats" />
+         <img src="https://github-readme-stats.vercel.app/api?username=Mahfuzahmmedabir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
     </a>
 </div>
 
