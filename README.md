@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Mahfuz!
 <div align="center">
-  <img height="600" src="https://i.ibb.co.com/HfQgzXgk/github-header-image-1.png"  />
+  <img height="500" src="https://i.ibb.co.com/HfQgzXgk/github-header-image-1.png"  />
 </div>
 
 ###
