@@ -68,6 +68,38 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 </a>
 </div>
 
+
+<div align="center"  >
+
+  <h2 > My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=fahima-anny&show_icons=true&theme=gotham" alt="fahima-anny" width="450" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahima-anny&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=gotham&hide_border=false" height="190" alt="languages graph"  />
+
+<a href="https://github.com/fahima-anny">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fahima-anny&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Streak" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  <a href="https://github.com/Mahfuzahmmedabir" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=Mahfuzahmmedabir&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="Emran's GitHub Stats" />
     </a>
