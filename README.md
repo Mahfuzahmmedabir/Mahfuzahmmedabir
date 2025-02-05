@@ -22,7 +22,7 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 
 - 🔭 &nbsp; I’m currently working on **portfolio-project**
 - 🌱 &nbsp; I’m currently learning Next.js; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mahfuzahmmedabir)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/mahfuz-ahmed-40155427b)
@@ -65,13 +65,12 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 
 <br>
 
-<!--
+
 <div align="center">
 <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=YOUR_USERNAME" alt="GitHub Streak">
 </a>
 </div>
--->
 
 
 <div align="center">
