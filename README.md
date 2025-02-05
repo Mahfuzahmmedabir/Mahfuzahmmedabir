@@ -26,9 +26,6 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/mahfuz-ahmed-40155427b)
-- <!--
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- -->
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://svpma.org/wp-content/uploads/2016/03/Dan-Olsen-The-Lean-Product-Playbook-pdf.pdf) to see the book I have read
 
 <br>
@@ -70,10 +67,13 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
   <img src="https://nirzak-streak-stats.vercel.app?user=YOUR_USERNAME" alt="GitHub Streak">
 </a>
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahfuzahmmedabir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahfuzahmmedabir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ###
 
