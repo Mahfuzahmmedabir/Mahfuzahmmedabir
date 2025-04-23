@@ -21,7 +21,7 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **portfolio-project**
+- 🔭 &nbsp; I’m currently learning  ** problem solving with c and c++ **
 - 🌱 &nbsp; I’m currently learning Next.js; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mahfuzahmmedabir)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
