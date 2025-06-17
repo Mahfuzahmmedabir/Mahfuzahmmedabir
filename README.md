@@ -1,7 +1,5 @@
 ## Hey 👋, I'm Mahfuz!
-<div align="center">
-  <img height="450" width="1200" src="https://i.ibb.co.com/HfQgzXgk/github-header-image-1.png"  />
-</div>
+
 
 ###
 
