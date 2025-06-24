@@ -63,9 +63,9 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 
 <div align="center"  >
 
-  <h2 > My GitHub Stats  </h2>
+  <h2 > My GitHub Stats   </h2>
 
- <img src="https://github-readme-stats.vercel.app/api?username=Mahfuzahmmedabir&show_icons=true&theme=gotham" alt="fahima-anny" width="450" />
+
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahfuzahmmedabir&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=gotham&hide_border=false" height="190" alt="languages graph"  />
 
