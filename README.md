@@ -63,15 +63,13 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 
 <div align="center"  >
 
-  <h2 > My GitHub Stats   </h2>
+  <h2 > My GitHub Stats <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />   </h2>
 
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahfuzahmmedabir&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=gotham&hide_border=false" height="190" alt="languages graph"  />
 
-<a href="https://github.com/Mahfuzahmmedabir">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mahfuzahmmedabir&theme=gotham&hide_border=true&border_radius=4" alt="GitHub Streak" />
-</a>
+
 </div>
 
 
