@@ -15,7 +15,7 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
   
 ### 🧐 More About Me:
 
