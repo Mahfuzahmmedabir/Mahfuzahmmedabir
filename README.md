@@ -20,7 +20,6 @@ I'm  passionate Front-End Developer with a love for creating beautiful, responsi
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently learning  **problem solving with c and c++**
-- 🌱 &nbsp; I’m currently learning Next.js; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mahfuzahmmedabir)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mahfuz-ahmed-71a26a350/)
